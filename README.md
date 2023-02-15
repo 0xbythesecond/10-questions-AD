@@ -1,4 +1,4 @@
-# 10 Related to Active Directory
+# 10 Questions Related to Active Directory
 
 `What is Active Directory?`
 <br />
